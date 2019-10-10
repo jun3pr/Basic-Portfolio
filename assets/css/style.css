@@ -124,6 +124,9 @@ h3, h2 {
   min-height: calc(100vh - 70px);
 }
 
+.a{
+  float: left;
+}
 .main-section {
   float: left;
   width: 100%;
@@ -203,9 +206,8 @@ textarea {
   border: 1px solid #dddddd;
 }
 
-textarea {
-  height: 200px;
-}
+
+
 
 input[type=submit] {
   padding: 10px 30px;
